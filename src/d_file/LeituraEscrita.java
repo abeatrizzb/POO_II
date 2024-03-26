@@ -11,7 +11,6 @@ import javax.swing.JOptionPane;
 public class LeituraEscrita {
 
 	public static void main(String[] args) {
-
 		String menu = "1 - Escrever\n" + "2 - Ler\n\n" + "3 - Sair";
 		int op = 0;
 		do {
@@ -25,12 +24,10 @@ public class LeituraEscrita {
 
 	private static void escreve() {
 		try {
-			FileWriter fw = new FileWriter("sorteio.txt");
+			FileWriter fw = new FileWriter("sorteio.txt"); 
 			BufferedWriter bw = new BufferedWriter(fw);
 			for (int i = 0; i < 10; i++) {
 				Random r = new Random();
-				@SuppressWarnings("unused")
-				int nr = r.nextInt(1000);
 				bw.append(r.nextInt(1000) + "\n");
 			}
 			bw.close();
@@ -41,8 +38,8 @@ public class LeituraEscrita {
 
 	private static void leitura() {
 		try {
-			FileReader fr = new FileReader("sorteio.txt");
-			BufferedReader br = new BufferedReader(fr);
+			FileReader fr = new FileReader("sorteio.txt"); //apontador de arquivo
+			BufferedReader br = new BufferedReader(fr); //coloca o arquivo em buffer para realizar a leitura linha por linha
 			String linha = "";
 			while ((linha = br.readLine()) != null) {
 				System.out.println(linha);
