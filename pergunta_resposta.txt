@@ -1,0 +1,50 @@
+A Grande Muralha da China pode ser vista do espaço, Falso
+A água ferve a uma temperatura mais alta em altitudes mais elevadas, Falso
+A lua é feita de queijo verde, Falso
+O Monte Everest é a montanha mais alta do mundo, Verdadeiro
+O Brasil é o país mais extenso da América do Sul, Verdadeiro
+O sol é uma estrela, Verdadeiro
+Apenas os mamíferos têm sangue quente, Falso
+O oxigênio é o elemento mais abundante na Terra, Falso
+A tartaruga pode respirar pela boca, Falso
+O Japão é um arquipélago, Verdadeiro
+O Rio Nilo é o rio mais longo do mundo, Falso
+As abelhas podem ver todas as cores, Falso
+A Lua não tem atmosfera, Verdadeiro
+A França é o maior país do mundo em área terrestre, Falso
+O diamante é a substância mais dura conhecida pelo homem, Verdadeiro
+O chocolate é tóxico para os cães, Verdadeiro
+Os elefantes são os únicos animais que não conseguem pular, Falso
+A Antártica é o continente mais quente do mundo, Falso
+O cérebro humano para de crescer aos 25 anos, Falso
+O vulcão mais alto do mundo está localizado na Argentina, Falso
+A água é composta por dois átomos de hidrogênio e um de oxigênio, Verdadeiro
+O Brasil é o único país na América do Sul que fala espanhol, Falso
+A Grande Barreira de Coral é o maior organismo vivo do planeta, Verdadeiro
+Os pinguins podem voar, Falso
+O diamante pode ser queimado, Verdadeiro
+A gravidade é mais forte na superfície da Lua do que na Terra, Falso
+As avestruzes enterram a cabeça na areia quando estão com medo, Falso
+O músculo mais forte do corpo humano é a língua, Verdadeiro
+O café foi descoberto na África, Verdadeiro
+As bananas crescem em árvores, Falso
+O ouro é um metal ferromagnético, Falso
+O coelho é um roedor, Falso
+O pólen das flores causa alergias, Verdadeiro
+A tartaruga é o animal mais lento do mundo, Verdadeiro
+A sibéria é conhecida por ser a região mais quente da Rússia, Falso
+A água potável pode ser encontrada em quase todas as partes do mundo, Falso
+O piano é um instrumento de sopro, Falso
+O diamante é feito de carbono puro, Verdadeiro
+O Parque Nacional Yellowstone está localizado principalmente no estado de Wyoming, nos Estados Unidos, Verdadeiro
+Apenas as plantas realizam fotossíntese, Falso
+O lince é um felino, Verdadeiro
+O zodíaco é composto por 11 signos, Falso
+A água tem um pH neutro de 7, Verdadeiro
+O canguru é nativo da América do Sul, Falso
+O veneno de uma abelha é ácido, Verdadeiro
+O aço inoxidável é um material que oxida facilmente, Falso
+O ovo é a célula reprodutora feminina dos pássaros, Falso
+O basquete foi inventado por James Naismith, Verdadeiro
+A química é uma ciência que estuda a composição e as propriedades da matéria, Verdadeiro
+O deserto do Saara é o maior deserto do mundo, Verdadeiro

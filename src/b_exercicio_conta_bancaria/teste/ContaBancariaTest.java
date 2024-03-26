@@ -22,7 +22,7 @@ class ContaBancariaTest {
 		contaEspecial = new ContaEspecial(2, 6000, 8000);
 		contaPoupanca = new ContaPoupanca(3, 4000);
 	}
-	
+	//verificar se a conta tem saldo ou não; testar deposito para uma conta que não existe
 	@Test
 	void contaCorrenteDepositoTest() {
 		contaCorrente.deposito(500);
@@ -32,6 +32,7 @@ class ContaBancariaTest {
 	void contaCorrenteSaqueTest() {
 			contaCorrente.saque(5000);
 			assertEquals(0, contaCorrente.getSaldo());
+			//saque que tem saldo e limite; saque sem saldo e com limite; saque sem saldo e sem limite
 	}
 	@Test
 	void contaCorrenteTransferenciaTest() {
@@ -60,5 +61,6 @@ class ContaBancariaTest {
 		contaPoupanca.deposito(500);
 		assertEquals(4500, contaPoupanca.getSaldo());
 	}
+	//saque poupança: saque que não tem valor e ainda não sacou 5 vezes, saque com valor mas ja sacou 5 vezes 
 	
 }

@@ -1,7 +1,7 @@
 package b_exercicio_conta_bancaria;
 
 public class ContaBancaria {
-
+//classe não pode ser privada a não ser que esteja dentro de outra
 	protected int numeroConta;
 	protected double saldo;
 
@@ -51,5 +51,9 @@ public class ContaBancaria {
 	public void setSaldo(double saldoDisponivel) {
 		this.saldo = saldoDisponivel;
 	}
+	@Override
+    public String toString() {
+    	return getNumeroConta()+" - Saldo: R$"+getSaldo();
+    }
 
 }

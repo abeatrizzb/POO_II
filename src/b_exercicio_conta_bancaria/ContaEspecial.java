@@ -29,4 +29,8 @@ public class ContaEspecial extends ContaBancaria {
 	public void setLimite(double limite) {
 		this.limite = limite;
 	}
+	@Override
+	public String toString() {
+		return super.toString()+" - Limite: R$ "+getLimite();
+	}
 }
